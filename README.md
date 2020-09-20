@@ -1,8 +1,8 @@
 # Ajay Sarjoo -- @asarj -- Software Engineer 👨🏾‍💻
 <p align="center">
-  <a href="https://www.ajaysarjoo.com"><img src="https://img.icons8.com/fluent/96/000000/resume-website.png" alt="website"/></a>
-  <a href="https://www.linkedin.com/in/ajaysarjoo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.github.com/asarj"><img src="https://img.icons8.com/nolan/96/github.png" alt="github"/></a>
+  <a href="https://www.ajaysarjoo.com"><img src="https://img.icons8.com/fluent/96/000000/resume-website.png" alt="website" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/ajaysarjoo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" target="_blank" /></a>
+  <a href="https://www.github.com/asarj"><img src="https://img.icons8.com/nolan/96/github.png" alt="github" target="_blank" /></a>
 </p>
 <div align="center">
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" align="center" style="width: 100%" />
