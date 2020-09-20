@@ -1,11 +1,7 @@
 # Ajay Sarjoo -- @asarj -- Software Engineer 👨🏾‍💻
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-  
 
-<div align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" align="center" style="width: 100%" />
-</div>  
-
+## Quick Facts
 - 🐺 I'm a senior at Stony Brook University Studying Computer Science 🖥 and Applied Math and Statistics 🧮  
 - 🔭 I’m currently working on [PressPlay](https://github.com/asarj/PressPlay) and a surprise music service coming soon...  
 - 🌱 I’m currently learning UI/UX and adversarial machine learning  
