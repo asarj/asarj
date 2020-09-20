@@ -1,5 +1,5 @@
 # Ajay Sarjoo -- @asarj -- Software Engineer 👨🏾‍💻
-# <p align="center">
+<p align="center">
   <a href="https://ajaysarjoo.com"><img src="https://img.icons8.com/fluent/96/000000/resume-website.png" alt="website"/></a>
   <a href="https://www.linkedin.com/in/ajaysarjoo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/asarj"><img src="https://img.icons8.com/nolan/96/github.png" alt="github"/></a>
