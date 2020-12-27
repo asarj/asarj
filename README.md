@@ -10,7 +10,7 @@
 
 ## Quick Facts
 - 🐺 I'm a senior at Stony Brook University Studying Computer Science 🖥 and Applied Math and Statistics 🧮  
-- 🔭 I’m currently working on [PressPlay](https://github.com/asarj/PressPlay) and the [Muse](https://cse416-muse.netlify.app)
+- 🔭 I’m currently working on [PressPlay](https://github.com/asarj/PressPlay) and the [Muse](https://cse416-muse.netlify.app) platform
 - 🌱 I’m currently learning UI/UX and adversarial machine learning  
 
 <br/>  
