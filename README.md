@@ -69,9 +69,9 @@
 
 ## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asarj&show_icons=true&count_private=true" align="center" /></div>  
-
+<div align="center"><img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=asarj&hide=php&theme=tokyonight" align="center"></div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=asarj&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=asarj&&style=flat-square" align="center" />
 </div>  
 
 <br />
