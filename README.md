@@ -9,7 +9,7 @@
 </div>  
 
 ## Quick Facts
-- 🐺 I'm an Master's in Computer Science 👨🏾‍💻 student at Stony Brook University. I recently received my Bachelor of Science in Computer Science 🖥 and Applied Math and Statistics 🧮 from the same school.
+- 🐺 I'm a Master's in Computer Science 👨🏾‍💻 student at Stony Brook University. I recently received my Bachelor of Science in Computer Science 🖥 and Applied Math and Statistics 🧮 from the same school.
 - 🔭 I’m currently working on [PressPlay](https://github.com/asarj/PressPlay) and the [Muse](https://cse416-muse.netlify.app) platform
 - 🌱 I’m currently learning UI/UX and adversarial machine learning  
 
