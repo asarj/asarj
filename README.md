@@ -5,12 +5,13 @@
   <a href="https://www.github.com/asarj" target="_blank" ><img src="https://img.icons8.com/nolan/96/github.png" alt="github"/></a>
 </p>
 <div align="center">
-<img src="https://camo.githubusercontent.com/15a7ec4ebded7ed12bbd04e69e1dbbe5f3cfcb723adcf38ae001f514e6852ad7/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f44696e6f5f6e6f6e2d62697274686461795f76657273696f6e2e676966" align="center" style="width: 100%" />
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" align="center" style="width: 1000px;height: auto" />
 </div>  
 
 ## Quick Facts
-- 🐺 I'm a Master's in Computer Science 👨🏾‍💻 student at Stony Brook University. I recently received my Bachelor of Science in Computer Science 🖥 and Applied Math and Statistics 🧮 from the same school.
-- 🌱 I’m currently learning UI/UX and adversarial machine learning  
+- 👨🏾‍💻 I'm currently a Software Engineer at 🅱️loomberg LP, working on the Fixed Income Pricing team that powers [IBVAL Front Office](https://www.bloomberg.com/professional/products/data/enterprise-catalog/pricing/ibval-front-office/#overview)
+- 🐺 I received my Master's in Computer Science and Bachelor of Science in Computer Science 🖥 and Applied Math and Statistics 🧮 from Stony Brook University.
+- 🌱 I’m currently learning distributed systems, Apache Flink, and Apache Kafka
 
 <br/>  
 
@@ -68,7 +69,6 @@
 
 ## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asarj&show_icons=true&count_private=true" align="center" /></div>  
-<div align="center"><img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=asarj&hide=php&theme=tokyonight" align="center"></div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asarj&&style=flat-square" align="center" />
 </div>  
