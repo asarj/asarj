@@ -9,7 +9,7 @@
 </div>  
 
 ## Quick Facts
-- 👨🏾‍💻 I'm currently a Software Engineer at 🅱️loomberg LP, working on the Fixed Income Pricing team that powers [IBVAL Front Office](https://www.bloomberg.com/professional/products/data/enterprise-catalog/pricing/ibval-front-office/#overview)
+- 👨🏾‍💻 I'm currently a Software Engineer at 🅱️loomberg LP, working on the Fixed Income Pricing team that powers [IBVAL Front Office](https://www.bloomberg.com/professional/products/data/enterprise-catalog/pricing/ibval-front-office/)
 - 🐺 I received my Master's in Computer Science and Bachelor of Science in Computer Science 🖥 and Applied Math and Statistics 🧮 from Stony Brook University.
 - 🌱 I’m currently learning distributed systems, Apache Flink, and Apache Kafka
 
